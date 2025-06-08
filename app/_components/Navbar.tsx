@@ -16,7 +16,7 @@ export default function Navbar() {
             className="flex items-center space-x-2 hover:opacity-80 transition-opacity"
           >
             <span className="text-xl sm:text-2xl font-bold bg-gradient-to-r from-success to-emerald-500 bg-clip-text text-transparent">
-              Sourav's Casino
+              Souravs Casino
             </span>
            
           </Link>
