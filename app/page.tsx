@@ -49,7 +49,7 @@ export default function Home() {
           className="text-4xl sm:text-6xl font-bold mb-4 flex flex-col items-center justify-center gap-2 sm:gap-3"
         >
           <div className="flex items-center gap-2 text-white">
-            Welcome to <span className="text-success">Sourav's Casino</span>
+            Welcome to <span className="text-success">Souravs Casino</span>
           </div>
        
         </h1>
